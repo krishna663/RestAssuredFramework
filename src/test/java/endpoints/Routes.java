@@ -7,6 +7,7 @@ create user (post) - https://petstore.swagger.io/v2/user
 get user (get) - https://petstore.swagger.io/v2/user/{username}
 update user (Put) - https://petstore.swagger.io/v2/user/{username}
 delete user (delete) - https://petstore.swagger.io//v2/user/{username}
+Checking git and git hub
  */
 
 public class Routes {
