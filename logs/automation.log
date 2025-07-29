@@ -1,0 +1,5 @@
+11:20:21.004 [main] INFO  test.UserTest - ************* creating user ***********
+11:20:25.347 [main] INFO  test.UserTest - ************ User is created ***********
+11:20:25.355 [main] INFO  test.UserTest - ************ Reading User ***********
+11:20:26.797 [main] INFO  test.UserTest - ************ Updating user ***********
+11:20:29.354 [main] INFO  test.UserTest - ************ Deleting User ***********
